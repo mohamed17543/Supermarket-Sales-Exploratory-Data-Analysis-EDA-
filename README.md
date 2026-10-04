@@ -84,7 +84,7 @@ The dataset is clean and balanced. The three branches and six product lines perf
 ### How to Run
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/supermarket-sales-eda.git
+git clone https://github.com/mohamed17543/supermarket-sales-eda.git
 cd supermarket-sales-eda
 
 # 2. (Optional) create a virtual environment
